@@ -1,0 +1,3 @@
+Approximately
+1 hour - read instructions, understand starter code, plan functions
+3 hour 45 mins - build app & functionality
