@@ -1,0 +1,48 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+#header {
+  margin: auto;
+}
+
+#jeopardy {
+  position: relative;
+  Z-index: 1;
+}
+
+table, tr tr, td {
+  border: 1px solid black;
+}
+
+table {
+  background-color: #74119c;
+  margin : auto;
+
+}
+
+.header-tile {
+  background-color: #060ce9;
+}
+
+.Q-tile {
+  background-color: #115ff4;
+}
+
+#loader {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  z-index: 2;
+  position: absolute;
+  opacity: 100%;
+  top: 0px;
+}
+
+.hidden {
+  display: none;
+}
